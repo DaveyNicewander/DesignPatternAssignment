@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1397749084 source:c:\users\davey\desktop\school\programming 240 (c++)\facadepatternexample\test.cpp
+	"Arrow.h"
+	"Facade.h"
+
+1397747307 c:\users\davey\desktop\school\programming 240 (c++)\facadepatternexample\arrow.h
+	<iostream>
+	<string>
+
+1397747971 c:\users\davey\desktop\school\programming 240 (c++)\facadepatternexample\facade.h
+	"Arrow.h"
+

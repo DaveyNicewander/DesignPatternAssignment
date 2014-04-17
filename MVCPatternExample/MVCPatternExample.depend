@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1397750898 source:c:\users\davey\desktop\school\programming 240 (c++)\mvcpatternexample\test.cpp
+	"Controller.h"
+	<iostream>
+
+1397751048 c:\users\davey\desktop\school\programming 240 (c++)\mvcpatternexample\controller.h
+	"View.h"
+	"Model.h"
+
+1397751039 c:\users\davey\desktop\school\programming 240 (c++)\mvcpatternexample\view.h
+	"Model.h"
+	"Controller.h"
+	<iostream>
+
+1397750972 c:\users\davey\desktop\school\programming 240 (c++)\mvcpatternexample\model.h
+	"View.h"
+	"Controller.h"
+
